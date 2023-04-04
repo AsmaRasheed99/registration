@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+}
+#form {
+    display: inline-block;
+    padding: 5rem;
+    font-size: 5rem;
+    border-style: solid;
+    border-radius: 5rem;
+    background-color: rgb(158, 204, 186);
+    margin-left: 50rem;
+    margin-top: 10rem;
+}
+
+input {
+    font-size: xx-large;
+    padding: 1rem;
+    border-radius:5rem ;
+    text-align: center;
+    box-shadow: 3px 3px 5px black;
+}
+#submit {
+    margin-left: 10rem;
+    background-color: darkgray;
+}
