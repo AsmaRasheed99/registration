@@ -36,7 +36,7 @@ function validateName() {
 	  return false;
 
 	}else if(Name.includes(" ")){
-		alert("No Spaces Allowed");
+		alert("No Spaces Allowed in the username");
 		return false;	
 	} else if(array.includes(userName)){
 
@@ -95,3 +95,7 @@ return true;
 		return true;
 			}   
 
+
+
+		
+  

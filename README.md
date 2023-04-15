@@ -11,4 +11,5 @@
 * Email -> follows email format 
 * Phone -> 10 digits starts with 07
 
-
+### Live Link :
+[Registration](https://asmarasheed99.github.io/registration/)
